@@ -31,3 +31,5 @@ async def classify(request: Request):
 # http://127.0.0.1:8000 접속
 # if __name__ == "__main__":
 # uvicorn.run(app, host="127.0.0.1", port=8000)
+
+# rebase test
